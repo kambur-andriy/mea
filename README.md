@@ -1,7 +1,7 @@
 # MEA
 My English Assistant
 
-#Description
+# Description
 
 MEA - is a personal electronic dictionary. The main features:
 
@@ -10,7 +10,7 @@ MEA - is a personal electronic dictionary. The main features:
 * Revise words
 * Practice words
 
-#Installation
+# Installation
 
 MEA was created using [Laravel Framework](https://laravel.com/) and [Material Dashboard Template](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
 
