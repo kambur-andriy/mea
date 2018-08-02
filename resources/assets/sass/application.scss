@@ -1,0 +1,48 @@
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Fonts
+//@import url("https://fonts.googleapis.com/css?family=Acme|Raleway:100,300,400,600");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons");
+
+// Forms
+@import "forms";
+
+// Modals
+@import "modals";
+
+// Errors
+@import "validation";
+
+// Tables
+@import "tables";
+
+body {
+
+    min-height: 100vh;
+
+    $font-family-sans-serif: "Raleway", sans-serif;
+    $font-size-base: 0.9rem;
+    $line-height-base: 1.6;
+
+    background-color: #f8f9fa;
+}
+
+#page {
+
+    min-height: 100vh;
+
+}
+
+#switch_register {
+
+    i {
+        font-size: 36px;
+
+    }
+
+}
+
+i.play-sound {
+    cursor: pointer;
+}
